@@ -1,4 +1,4 @@
-# Hello World
+# Guessing Game
 
 #### A simple number guessing game written in Go
 

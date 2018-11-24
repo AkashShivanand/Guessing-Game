@@ -13,7 +13,6 @@ func main() {
 
 	rand.Seed(time.Now().Unix())
 	secretNumber = rand.Intn(10)
-	fmt.Println("Secret number is:", secretNumber)
 
 	for quit != true {
 		fmt.Printf("Please enter a number: ")

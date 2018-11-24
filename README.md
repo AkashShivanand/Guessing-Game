@@ -6,6 +6,6 @@
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/AkashShivanand/guessing-game)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-1F5081.svg)](https://bitbucket.org/AkashShivanand/guessing-game)
 
-![Go Code](https://3.bp.blogspot.com/-i-OOWA4rZdY/Wfi1Qp3OzKI/AAAAAAAA_CM/55hxG13GmYwJcWKNDMm6JLPpMwsYbHBvwCLcBGAs/s1600/golang-logo.png)
+![Go Code](https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg)
 
 ### **Hi Guys, enjoy the simple but interesting game!**
